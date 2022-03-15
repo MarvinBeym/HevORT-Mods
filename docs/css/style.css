@@ -73,7 +73,8 @@ h1 {
     padding: 1rem;
     font-size: large;
     font-weight: bolder;
-    align-self: center
+    align-self: center;
+    text-align: center;
 }
 
 .grid-item-description {

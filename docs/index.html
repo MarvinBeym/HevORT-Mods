@@ -12,13 +12,14 @@
     <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/brands.css"/>
     <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/regular.css"/>
     <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/solid.css"/>
-    <link rel="stylesheet" href="css/style.css"/>
     <link rel="stylesheet" href="plugins/download-button/css/download-button.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
 </head>
 <body>
 <div id="app"></div>
 <script>
     window.$docsify = {
+        executeScript: true,
         search: {
             paths: 'auto',
             noData: 'No Results!',
@@ -47,6 +48,8 @@
     }
 </script>
 <!-- Docsify v4 -->
+<script src="//cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-csharp.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>

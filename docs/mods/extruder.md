@@ -16,7 +16,7 @@ new Vue({
                         <br/>- Main mounting screw: M3x(~35mm long screw)
                         <br/>- BL-Touch screws: 2x M3x8mm screw`,
             download: "../cad/BL_Touch_Rapido_Hotend_UHF_Bracket.step",
-            credits: [{name: "MirageC", description: "Initial work/version"}]
+            credits: [{name: "MirageC"}]
         },
     ]
   }

@@ -15,7 +15,7 @@
                     </li>
                 </ul>
             </div>
-            <a class="download-button-btn" v-if="item.download" :href=item.download target="_blank" rel="noopener"><span class="download-button-text">Download</span><i class="fa fa-download download-button-icon" aria-hidden="true"></i></a>
+            <a class="download-button-btn" v-if="item.download" :href=item.download target="_blank" rel="noopener"><span class="download-button-text">Download</span><i class="fa fa-download" aria-hidden="true"></i></a>
         </div>
     </div>
 </div>

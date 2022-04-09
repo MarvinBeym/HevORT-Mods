@@ -1,8 +1,8 @@
-.download-button-btn {
+.hevort-btn {
     display: flex;
     align-items: center;
-    border: 2px solid #d1ff2a !important;
-    padding: 0.5rem;
+    border: 2px solid var(--primary-color) !important;
+    padding: 0.5rem 1rem;
     border-radius: 1rem;
     text-decoration: none !important;
     background: #2d2d2d;
@@ -11,14 +11,18 @@
     justify-content: center;
 }
 
-.download-button-btn:hover {
-    background-color: #0021c9;
+.hevort-btn:hover {
+    background-color: var(--secondary-color);
 }
 
-.download-button-btn:active {
+.hevort-btn:active {
     transform: translateY(4px);
 }
 
-.download-button-text {
-    padding-right: 0.5rem;
+.hevort-btn-text {
+
+}
+
+.hevort-button-icon {
+    margin-left: auto;
 }

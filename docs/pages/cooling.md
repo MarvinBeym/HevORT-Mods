@@ -15,7 +15,7 @@ new Vue({
                         <br/>- Standard: 4x M3x8mm screws
                         <br/>- UHF: 4x M3x14mm screws`,
             download: "../cad/HD12_MGN12_Rapido_Duct.step",
-            credits: [{name: "MirageC", description: "Initial work of MGN9 version"}]
+            credits: [{name: "MirageC"}]
         },
         {
             title: "HD12/MGN12H<br/>Rapido UHF Spacer",
@@ -23,7 +23,7 @@ new Vue({
             description: `Spacer for the CPAP Rapido Duct
                         <br/>when the rapido is used with a volcano nozzle (UHF)`,
             download: "../cad/HD12_MGN12_Rapido_UHF_Spacer.step",
-            credits: [{name: "MirageC", description: "Initial work of MGN9 version"}]
+            credits: [{name: "MirageC"}]
         },
         {
             title: "HD12/MGN12<br/>40mm fan mount<br/>(tested with Rapido hotend)",
@@ -36,7 +36,7 @@ new Vue({
                         <br/>- 3x M3x(8mm + fan size)
                         <br/>Example: 20mm thick fan = 28mm = 25-30mm`,
             download: "../cad/MGN12_HD12_Rapido_Fan_Shroud_40mm.step",
-            credits: [{name: "MirageC", description: "Initial work of Rapido with 25mm fan version"}]
+            credits: [{name: "MirageC"}]
         },
         {
             title: "CPAP 7040 fan mount with inlet selector",

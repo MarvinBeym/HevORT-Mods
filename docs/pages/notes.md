@@ -1,7 +1,7 @@
 # General information and things to consider
 
 ## Any questions? need help?
-You can join the **Official** HevORT [Discord](https://discord.gg/txBSrb3D2P).
+You can join the **Official** HevORT [Discord](https://discord.gg/nCYRQAZPWV).
 
 You can find many people willing to help you with all of your issues.
 

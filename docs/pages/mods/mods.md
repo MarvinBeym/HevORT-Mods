@@ -86,8 +86,7 @@
 ## Other
 
 <grid>
-  <item title="ADXL345 mounting bracket on 40mm fan"
-        image="https://hevort-mods.donnerplays.de/images/ADXL345_40mm_Fan_Mount.png">
+  <item title="ADXL345 mounting bracket on 40mm fan" image="docs/assets/images/ADXL345_40mm_Fan_Mount.png">
     <description slot="description">
       Allows you to easily mount an ADXL345 accelerometer to your print head.
       <br><br>Mounts to the front of a 40mm fan.
@@ -95,7 +94,7 @@
       <br><br>Requires: 3.5mm longer screws
     </description>
     <buttons slot="buttons">
-      <item-button icon="fa fa-download" url="https://hevort-mods.donnerplays.de/cad/ADXL345_40mm_Fan_Mount.step">CAD
+      <item-button icon="fa fa-download" url="cad/ADXL345_40mm_Fan_Mount.step">CAD
         File
       </item-button>
     </buttons>

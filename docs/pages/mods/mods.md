@@ -109,4 +109,22 @@
       </item-button>
     </buttons>
   </item>
+  <item title="SHT Toolboard bracket<br>MGN12H/HD12/HextrudORT/Rapido UHF" image="docs/assets/images/sht42_toolboard_hextrudort_hd12_mgn12_rapido_uhf.png">
+    <description slot="description">
+      A mounting bracket for the Mellow3D SHT42 Toolboard
+      <br><br>Mounts to the back of the HextrudORT carriage
+      <br>Note that this mounting bracket was designed for the MGN12H HD12 HextrudORT carriage
+      <br>with the Rapido hotend in UHF setup.
+      <br><br>Requires:
+      <br>4x M3x14mm Screw
+      <br>4x M3x10mm Screw
+      <br>1x M4x55mm flathead Screw
+      <br>4x M3 Nut
+      <br>1x M4 Nut
+    </description>
+    <buttons slot="buttons">
+      <item-button icon="fa fa-download" url="cad/sht42_toolboard_hextrudort_hd12_mgn12_rapido_uhf.step">CAD File</item-button>
+      <item-button icon="fa fa-download" url="stls/sht42_toolboard_hextrudort_hd12_mgn12_rapido_uhf.stl">STL File</item-button>
+    </buttons>
+  </item>
 </grid>
